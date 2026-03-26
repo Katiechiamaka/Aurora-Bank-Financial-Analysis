@@ -28,16 +28,17 @@ The Aurora Banking institution aims to gain insights into customer behavior, tra
 
 ## Key Finding And Insights
 ### Transaction Method
-<img width="1517" height="861" alt="Screenshot 2026-02-23 000250" src="https://github.com/user-attachments/assets/1da1761a-5f8a-46ec-9c6b-4a4002c8c53c" />
+<img width="1526" height="856" alt="Screenshot 2026-02-22 235824" src="https://github.com/user-attachments/assets/f725cb63-96df-4cc8-9e80-e8b8c14bef52" />
 
-### Debt-to-income ratio znd Client Rist Level Analysis
+
+### Debt-to-income ratio and Client Rist Level Analysis
 <img width="1514" height="845" alt="Screenshot 2026-02-23 000503" src="https://github.com/user-attachments/assets/c1db9e32-e96a-440c-9b35-78ab7746abe8" />
 
 ### Age Distribution and Client Income Profile
 <img width="1508" height="761" alt="Screenshot 2026-02-23 000544" src="https://github.com/user-attachments/assets/d691e81d-ec00-47fc-97bb-90503e69b59c" />
 
 ### Card distribution and Error Message
-
+<img width="1517" height="861" alt="Screenshot 2026-02-23 000250" src="https://github.com/user-attachments/assets/1da1761a-5f8a-46ec-9c6b-4a4002c8c53c" />
 
 ## Recommendation
 - Adjust credit limits based on customer credit score, income, and transaction history to minimize risk.
